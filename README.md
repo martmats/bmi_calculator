@@ -2,6 +2,9 @@
 
 This is a simple BMI (Body Mass Index) calculator web application built using Streamlit. The app allows users to input their height and weight and calculates their BMI, providing a categorisation of their weight status based on the BMI value.
 
+# app here:
+https://bmicalculator-martmats.streamlit.app/
+
 ## Features
 
 - Input fields for height (in metres) and weight (in kilograms)
